@@ -1,10 +1,9 @@
-###Use Case
-
-Modellanbieterwahl wieso warum
-
-Langchain Gerüst und RAG
-
+Use Case Definition
+Modell- Anbieterwahl
+LangChain
+RAG
 UI
-
-Safeguarding
-
+Safegaurd
+Evaluation & Messung
+Stretch (optional)
+Präsentation
