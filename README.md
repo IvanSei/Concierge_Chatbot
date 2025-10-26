@@ -9,7 +9,7 @@ Situation 1: Eine Person kommt ins Hotel und es ist niemand da. Am Schalter steh
 Situation 2: Eine Person kommt ins Hotel, aber es ist niemand da und auch keine weiteren Informationen zur Verfügung. Nur die Zeiten, in denen das Hotel betreut ist, sind bekannt. Das kann in kleinen Hotels mit weniger Sternen vorkommen.
 In beiden Situationen müssen die Hotelgäste warten. Und da kommen wir mit unserem Hotel Concierge Chatbot ins Spiel, der die Wartezeit überbrückt und die gängigsten Fragen beantworten kann. So erhalten die Gäste Antworten auf ihre Fragen und haben etwas mehr Geduld, bis der Concierge zurückgekehrt ist.
 Auch bereits eingecheckte Gäste profitieren von dem Chatbot. Wenn sie zum Beispiel schon vor Ort sind und die Stadt erkunden möchten, aber noch nicht wissen wohin, können sie den Chatbot fragen. Er wird ihnen auch diese Frage beantworten können.
-
+\n
 
 Anleitung
 
