@@ -2,16 +2,16 @@ Der Hotel Concierge Chatbot ist ein KI-gestützter Chatbot, der speziell für da
 Technisch basiert das Projekt auf einem RAG. Das bedeutet, dass der Chatbot seine Antworten nicht nur aus einem trainierten Sprachmodell generiert, sondern zusätzlich auf externe Quellen wie Hotelinformationen oder PDF-Dokumente mit relevanten Informationen zugreift. Dadurch kann er präzisere und aktuellere Antworten liefern, die zum Kontext des Hotels und der Umgebung passen.
 
 
-#Problemstellung
+Problemstellung:
 
 Wir haben diesen Use Case ausgewählt, weil wir alle von unserer Gruppe schon eimal in mindestens einem Hotel gewesen sind und festgestellt haben, dass es am Empfang meistens keinen Chatbot hatte. Wenn keine Person anwesend war, ergaben sich folgende Situationen:
 Situation 1: Eine Person kommt ins Hotel und es ist niemand da. Am Schalter steht entweder ein Schild mit der Aufschrift: „Es wird gleich jemand für Sie da sein“ oder ein Schild mit einer ähnlichen Formulierung wie „Der Concierge/die Rezeptionistin ist gerade abwesend. Rufen Sie unter folgender Nummer an, dann wird gleich jemand für Sie da sein“.
 Situation 2: Eine Person kommt ins Hotel, aber es ist niemand da und auch keine weiteren Informationen zur Verfügung. Nur die Zeiten, in denen das Hotel betreut ist, sind bekannt. Das kann in kleinen Hotels mit weniger Sternen vorkommen.
 In beiden Situationen müssen die Hotelgäste warten. Und da kommen wir mit unserem Hotel Concierge Chatbot ins Spiel, der die Wartezeit überbrückt und die gängigsten Fragen beantworten kann. So erhalten die Gäste Antworten auf ihre Fragen und haben etwas mehr Geduld, bis der Concierge zurückgekehrt ist.
 Auch bereits eingecheckte Gäste profitieren von dem Chatbot. Wenn sie zum Beispiel schon vor Ort sind und die Stadt erkunden möchten, aber noch nicht wissen wohin, können sie den Chatbot fragen. Er wird ihnen auch diese Frage beantworten können.
-\n
 
-Anleitung
+
+Anleitung:
 
 Lade das Projekt herunter oder oder kreiere eine lokale Version mit git clone <repository-url>
 Wichtig ist zu beachten, dass ihr im richtigen Dateipfad, also am richtigen Speicherort seid, damit das Progamm ausgeführt werden kann. Achtet bitte, dass ihr dort sein müsst, wo die Ordner wie app, data, docs… drinnen sind. Im Terminal gebt ihr ein: cd <und dann euren Dateipfad zum Chatbot>. 
