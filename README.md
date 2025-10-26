@@ -1,21 +1,3 @@
-Use Case Definition
-In unserem Use Case geht es darum, einen Hotel-Concierge-Chatbot zu erstellen und zu verwenden. Wenn in einem Hotel der Concierge (oder die Receptionisten) nicht anwesend sind, kann der Chatbot auf einem Bildschirm bereits einfache Gästefragen beantworten. Zum Beispiel wenn ein Gast wissen möchte, wann er ein- oder auschecken soll und keine Person am Empfang ist, beantwortet unser Chatbot die Fragen.
+Der Hotel Concierge Chatbot ist ein KI-gestützter Chatbot, der speziell für das Hotel Les Trois Rois in Basel entwickelt wurde. Er soll Hotelgästen rund um die Uhr bei allgemeinen Fragen weiterhelfen. Zum Beispiel zu den angebotenen Dienstleistungen, Sehenswürdigkeiten in Basel oder zur Orientierung in der Stadt. Der Chatbot kann auch Auskünfte zu nahegelegenen Grossstädten wie Zürich oder Paris geben, die direkt mit der SBB erreichbar sind.
+Technisch basiert das Projekt auf einem RAG. Das bedeutet, dass der Chatbot seine Antworten nicht nur aus einem trainierten Sprachmodell generiert, sondern zusätzlich auf externe Quellen wie Hotelinformationen oder PDF-Dokumente mit relevanten Informationen zugreift. Dadurch kann er präzisere und aktuellere Antworten liefern, die zum Kontext des Hotels und der Umgebung passen.
 
-
-Modell- Anbieterwahl
-
-
-
-LangChain
-
-RAG
-
-UI
-
-Safegaurd
-
-Evaluation & Messung
-
-Stretch (optional)
-
-Präsentation
