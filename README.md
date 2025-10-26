@@ -12,6 +12,7 @@ Auch bereits eingecheckte Gäste profitieren von dem Chatbot. Wenn sie zum Beisp
 
 
 Anleitung
+
 Lade das Projekt herunter oder oder kreiere eine lokale Version mit git clone <repository-url>
 Wichtig ist zu beachten, dass ihr im richtigen Dateipfad, also am richtigen Speicherort seid, damit das Progamm ausgeführt werden kann. Achtet bitte, dass ihr dort sein müsst, wo die Ordner wie app, data, docs… drinnen sind. Im Terminal gebt ihr ein: cd <und dann euren Dateipfad zum Chatbot>. 
 
