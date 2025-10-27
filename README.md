@@ -1,8 +1,9 @@
+# Hotel Concierge Chatbot
 Der Hotel Concierge Chatbot ist ein KI-gestützter Chatbot, der speziell für das Hotel Les Trois Rois in Basel entwickelt wurde. Er soll Hotelgästen rund um die Uhr bei allgemeinen Fragen weiterhelfen. Zum Beispiel zu den angebotenen Dienstleistungen, Sehenswürdigkeiten in Basel oder zur Orientierung in der Stadt. Der Chatbot kann auch Auskünfte zu nahegelegenen Grossstädten wie Zürich oder Paris geben, die direkt mit der SBB erreichbar sind.
 Technisch basiert das Projekt auf einem RAG. Das bedeutet, dass der Chatbot seine Antworten nicht nur aus einem trainierten Sprachmodell generiert, sondern zusätzlich auf externe Quellen wie Hotelinformationen oder PDF-Dokumente mit relevanten Informationen zugreift. Dadurch kann er präzisere und aktuellere Antworten liefern, die zum Kontext des Hotels und der Umgebung passen.
 
 
-Problemstellung:
+## Problemstellung:
 
 Wir haben diesen Use Case ausgewählt, weil wir alle von unserer Gruppe schon eimal in mindestens einem Hotel gewesen sind und festgestellt haben, dass es am Empfang meistens keinen Chatbot hatte. Wenn keine Person anwesend war, ergaben sich folgende Situationen:
 Situation 1: Eine Person kommt ins Hotel und es ist niemand da. Am Schalter steht entweder ein Schild mit der Aufschrift: „Es wird gleich jemand für Sie da sein“ oder ein Schild mit einer ähnlichen Formulierung wie „Der Concierge/die Rezeptionistin ist gerade abwesend. Rufen Sie unter folgender Nummer an, dann wird gleich jemand für Sie da sein“.
@@ -11,7 +12,7 @@ In beiden Situationen müssen die Hotelgäste warten. Und da kommen wir mit unse
 Auch bereits eingecheckte Gäste profitieren von dem Chatbot. Wenn sie zum Beispiel schon vor Ort sind und die Stadt erkunden möchten, aber noch nicht wissen wohin, können sie den Chatbot fragen. Er wird ihnen auch diese Frage beantworten können.
 
 
-Anleitung:
+# Anleitung:
 
 Lade das Projekt herunter oder oder kreiere eine lokale Version mit git clone <repository-url>
 Wichtig ist zu beachten, dass ihr im richtigen Dateipfad, also am richtigen Speicherort seid, damit das Progamm ausgeführt werden kann. Achtet bitte, dass ihr dort sein müsst, wo die Ordner wie app, data, docs… drinnen sind. Im Terminal gebt ihr ein: cd <und dann euren Dateipfad zum Chatbot>. 
@@ -58,7 +59,6 @@ gradio==5.49.1
 chromadb==1.2.0
 langfuse==2.40.0
 rank-bm25==0.2.2
-
 
 
 Danach ist es wichtig auf ‘Edit Configurations’ zu klicken und unter app die Datei ‘ui.py’ auswählen. Das ist der richtige Dateipfad.
