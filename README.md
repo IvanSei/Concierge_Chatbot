@@ -12,7 +12,7 @@ In beiden Situationen müssen die Hotelgäste warten. Und da kommen wir mit unse
 Auch bereits eingecheckte Gäste profitieren von dem Chatbot. Wenn sie zum Beispiel schon vor Ort sind und die Stadt erkunden möchten, aber noch nicht wissen wohin, können sie den Chatbot fragen. Er wird ihnen auch diese Frage beantworten können.
 
 
-# Anleitung:
+## Anleitung:
 
 Lade das Projekt herunter oder oder kreiere eine lokale Version mit git clone https://github.com/IvanSei/Concierge_Chatbot.git.
 Wichtig ist zu beachten, dass ihr im richtigen Dateipfad, also am richtigen Speicherort seid, damit das Progamm ausgeführt werden kann. Achtet bitte, dass ihr dort sein müsst, wo die Ordner wie app, data, docs… drinnen sind. Gebt deshalb folgendes im Terminal ein: cd <und dann euren Dateipfad zum Chatbot>.
